@@ -1,5 +1,5 @@
 # Nayan Bhagowaty
-Welcome to my personal portfolio! I’m a full stack .
+Welcome to my personal portfolio! I’m a full stack developer.
 
 ## About Me
 I have experience in cloud computing, low-code platforms, and technology communities.
